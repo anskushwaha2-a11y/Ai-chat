@@ -11,9 +11,3 @@ A powerful Telegram bot with support for multiple AI providers including OpenAI 
 - 🔒 Optional access control
 - 📊 Status monitoring
 - 💬 Natural conversation flow
-
-## Quick Start
-
-1. **Install dependencies:**
-```bash
-pip install -r requirements.txt
